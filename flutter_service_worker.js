@@ -4,8 +4,6 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "371105e6cae5742af564d1a95fc82b30",
-"assets/assets/mario.mp4": "0789f2ac74b24e4a4064067c2f792ed8",
-"assets/assets/profile_without_bg.png": "83deaa77513297ff427e0c5870a1c546",
 "assets/assets/rotem.png": "76063d612e627c8d206b890a9327575f",
 "assets/FontManifest.json": "94a2494f1e7ff74a7d0b6cf4f3d4e39d",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
